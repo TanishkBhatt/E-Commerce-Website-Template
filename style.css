@@ -17,7 +17,7 @@
     background: linear-gradient(to top right, rgb(224, 94, 231), rgb(52, 52, 221));
     color: white;
     width: 75%;
-    height: 85vh;
+    height: 600px;
     box-shadow: 5px 0px 12px 5px black;
 }
 
@@ -283,4 +283,5 @@ footer p:hover {
     .error-popup p {
         font-size: 10px;
     }
+
 }
